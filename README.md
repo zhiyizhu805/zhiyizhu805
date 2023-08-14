@@ -1,5 +1,4 @@
 
-[![MasterHead](banner3.png)](banner3.png)
 <h1 align="center">Hi 👋, I'm Cora. Welcome to my profile!</h1>
 <h3 align="center">I'm a student at Lincoln University, currently pursuing a Master's degree in Applied Computing.I love discovering new things while learning and am super excited to improve my skills as I go along.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
