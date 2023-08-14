@@ -1,9 +1,9 @@
 [![MasterHead](banner3.png)](banner3.png)
 <h1 align="center">Hi 👋, I'm Cora. Welcome to my profile!</h1>
-<h3 align="center">I'm a student at Lincoln University, currently pursuing a Master's degree in Applied Computing.I love discovering new things while learning and am super excited to improve my skills as I go along.</h3>
+<h3 align="center">I'm a Master of Applied Computing student at Lincoln University, set to graduate by year's end.I love discovering new things while learning and am super excited to improve my skills as I go along. </h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
-- 🔭 I’m currently working on **Digital Farm Ontology Visualisation System**
+- 🔭 I'm currently involved in **Digital Farm Ontology Visualisation Project** at Ag research
 
 - 🌱 I’m currently learning **React.js**
 
