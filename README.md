@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cora.I'm a full-stack web developer. Welcome to my profile!</h1>
+<h1 align="center">Hi 👋, I'm Cora! I'm a full-stack developer.  Welcome to my profile!</h1>
 <h3 align="center">I'm a Master of Applied Computing student at Lincoln University, set to graduate by year's end.I love discovering new things while learning and am super excited to improve my skills as I go along. </h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
