@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently involved in **Digital Farm Ontology Visualisation Project** at Ag research
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **React.js,Node.js**
 
 - 📫 How to reach me **zhiyi.zhu@lincolnuni.ac.nz**
 
