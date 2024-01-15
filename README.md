@@ -17,9 +17,4 @@ Environmental Accounting Services Limited
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zhiyizhu805&show_icons=true&locale=en&layout=compact" alt="zhiyizhu805" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zhiyizhu805&show_icons=true&locale=en" alt="zhiyizhu805" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zhiyizhu805&" alt="zhiyizhu805" /></p>
-
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zhiyizhu805&" alt="zhiyizhu805" /></p>
