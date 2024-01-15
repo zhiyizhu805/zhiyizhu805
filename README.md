@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Cora! I'm a full-stack software developer. </h1>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
-- 🔭 I'm currently involved in **Upper Clutha Catchment Monitoring System Project** at Wai Wanaka
+- 🔭 I'm currently involved in **Upper Clutha Catchment Monitoring System Project** at Wai Wanaka & 
+Environmental Accounting Services Limited
 
 - 🌱 I’m currently learning **React.js,C#,AWS**
 
