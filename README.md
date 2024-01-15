@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Cora! I'm a full-stack web developer. </h1>
-<h3 align="center">I'm a Master of Applied Computing student at Lincoln University, set to graduate by year's end.I love discovering new things while learning and am super excited to improve my skills as I go along. </h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
-- 🔭 I'm currently involved in **Digital Farm Ontology Visualisation Project** at Ag research
+- 🔭 I'm currently involved in **Upper Clutha Catchment Monitoring System Project** at Wai Wanaka
 
-- 🌱 I’m currently learning **React.js,Node.js**
+- 🌱 I’m currently learning **React.js,C#,AWS**
 
-- 📫 How to reach me **zhiyi.zhu@lincolnuni.ac.nz**
+- 📫 How to reach me **zhiyi.zhu@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
