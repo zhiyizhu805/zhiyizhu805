@@ -3,7 +3,7 @@
 
 - 🔭 I'm currently working at Agresearch.
 
-- 🌱 I’m currently learning **React.js,C#,AWS**
+- 🌱 I’m currently learning **React.js,C#,.Net,AWS**
 
 - 📫 How to reach me **zhiyi.zhu@hotmail.com**
 
