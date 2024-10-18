@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cora! I'm a full-stack software developer. </h1>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
-- 🔭 I'm currently working at Agresearch.
-
-- 🌱 I’m currently learning **React.js,C#,.Net,AWS**
-
 - 📫 How to reach me **zhiyi.zhu@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
